@@ -1,3 +1,7 @@
+החלק הרלוונטי:
+<img width="94" alt="Capture" src="https://user-images.githubusercontent.com/47754727/160681492-fe4a4d6c-eb32-47c2-9f87-129e5ccdcbef.PNG">
+
+
 <div dir="rtl" lang="he">
 
 # מחברת ועט
